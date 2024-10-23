@@ -1,4 +1,4 @@
-spring:
-  cloud:
-    config:
-      import: configserver:http://localhost:9296
+# spring:
+#   cloud:
+#     config:
+#       import: configserver:http://localhost:9296
